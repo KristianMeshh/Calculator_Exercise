@@ -11,6 +11,6 @@ This calculator supports basic operations: addition, subtraction, multiplication
 
 ## 📂 File Structure
 
-├── index.html # Main HTML file
-├── style.css # Styling using CSS
-├── index.js # Calculator logic
+-├── index.html # Main HTML file
+-├── style.css # Styling using CSS
+-├── index.js # Calculator logic
