@@ -14,3 +14,17 @@ This calculator supports basic operations: addition, subtraction, multiplication
 ├── index.html |
 ├── style.css  |
 ├── index.js   |
+
+
+## 🚀 How to Use
+1. Clone this repo or download the files.
+2. Open `index.html` in your browser.
+3. Start calculating!
+
+
+## 🛠️ Technologies
+- HTML
+- CSS Grid + Flexbox
+- JavaScript DOM
+
+made from tutorial @bro_code check out his channel!!!
